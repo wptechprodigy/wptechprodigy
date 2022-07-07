@@ -9,7 +9,7 @@ iOS has thousands of frameworks and APIs
 
 I would rather evaluate myself based on my ability to achieve great accomplishments in an environment where I knew nothing.
 
-[![Waheed's GitHub stats](https://github-readme-stats.vercel.app/api?username=wptechprodigy)](https://github.com/wptechprodigy/github-readme-stats)
+[![Waheed's GitHub stats](https://github-readme-stats.vercel.app/api?username=wptechprodigy&show_icons=true&theme=radical)](https://github.com/wptechprodigy/github-readme-stats)
 
 ### RELEVANT SKILLS
 
