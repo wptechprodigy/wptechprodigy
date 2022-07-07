@@ -1,6 +1,3 @@
-
-[![Waheed's GitHub stats](https://github-readme-stats.vercel.app/api?username=wptechprodigy)](https://github.com/wptechprodigy/github-readme-stats)
-
 ## Hi there 👋
 
 # My name is ✨ Waheed Afolabi ✨
@@ -11,6 +8,8 @@ iOS has thousands of frameworks and APIs
 (not to mention the annual changes that take place or the third-party SDKs) and so I wouldn’t evaluate myself on what I know.
 
 I would rather evaluate myself based on my ability to achieve great accomplishments in an environment where I knew nothing.
+
+[![Waheed's GitHub stats](https://github-readme-stats.vercel.app/api?username=wptechprodigy)](https://github.com/wptechprodigy/github-readme-stats)
 
 ### RELEVANT SKILLS
 
