@@ -1,16 +1,47 @@
-### Hi there 👋
 
-<!--
-**wptechprodigy/wptechprodigy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Waheed's GitHub stats](https://github-readme-stats.vercel.app/api?username=wptechprodigy)](https://github.com/wptechprodigy/github-readme-stats)
 
-Here are some ideas to get you started:
+## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# My name is ✨ Waheed Afolabi ✨
+
+My best quality without a doubt is the ability to work in the unknown.
+
+iOS has thousands of frameworks and APIs 
+(not to mention the annual changes that take place or the third-party SDKs) and so I wouldn’t evaluate myself on what I know.
+
+I would rather evaluate myself based on my ability to achieve great accomplishments in an environment where I knew nothing.
+
+### RELEVANT SKILLS
+
+ - Swift, C, Typescript, Node	
+ - OO design principles
+ - MVC, MVVM, MVI		
+ - Extremely hard working (very hands on)
+ - Automation using Fastlane
+ - XCode, iTunesConnect, developer portal (profiles, certificates etc)
+ - Team Leadership
+ - Very UX focused, utilising animations to support high performance screens
+ - UI using .xibs, storyboards and manipulating UI in code
+ - iPhone, iPad, Watch, Mac apps
+ - Enormously passionate paying attention to the details
+
+
+### Here are some other highlights about me:
+
+- 🔭 I’m currently working on upskilling myself to be a better engineer and rank among the 1% in the domain 
+
+- 🌱 I’m currently learning Combine, Protocol Witness
+
+- 👯 I’m looking to collaborate on Open Source iOS apps (Fintech, Health, Business and Productivity apps)
+
+- 🤔 I’m looking to join a team where I can fully express myself and contribute to its growth
+
+- 💬 Ask me about Swift, and iOS Development
+
+- 📫 How to reach me: [Twitter](htts://www.twitter.com/checkwithwaheed), [LinkedIn](htts://www.linkedin.com/in/waheed-afolabi)
+
+- 😄 Pronouns: He/Him
+
+- ⚡ Fun fact: I am hmm...🫣 
+
