@@ -36,7 +36,7 @@ I would rather evaluate myself based on my ability to achieve great accomplishme
 
 - 🤔 I’m looking to join a team where I can fully express myself and contribute to its growth
 
-- 💬 Ask me about Swift, and iOS Development
+- 💬 Ask me about Swift, and iOS Development <img src="https://user-images.githubusercontent.com/22558674/191959702-ccf14596-9c28-4dff-8f09-a40a932781eb.gif" width="80">
 
 - 📫 How to reach me: [Twitter](htts://www.twitter.com/checkwithwaheed), [LinkedIn](htts://www.linkedin.com/in/waheed-afolabi)
 
