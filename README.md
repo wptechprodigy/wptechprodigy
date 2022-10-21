@@ -15,7 +15,7 @@ I would rather evaluate myself based on my ability to achieve great accomplishme
 
  - Swift, C, Typescript, Node	
  - OO design principles
- - MVC, MVVM, MVI		
+ - MVC, MVVM, MVVM-C,MVP, MVP-C, MVI, VIPER		
  - Extremely hard working (very hands on)
  - Automation using Fastlane
  - XCode, iTunesConnect, developer portal (profiles, certificates etc)
