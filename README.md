@@ -13,7 +13,7 @@ I would rather evaluate myself based on my ability to achieve great accomplishme
 
 ### RELEVANT SKILLS
 
- - Swift, C, Typescript, Node	
+ - Swift, Objective-C, C, Typescript, Node	
  - OO design principles
  - MVC, MVVM, MVVM-C,MVP, MVP-C, MVI, VIPER		
  - Extremely hard working (very hands on)
