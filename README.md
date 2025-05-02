@@ -21,7 +21,7 @@ I would rather evaluate myself based on my ability to achieve great accomplishme
  - XCode, iTunesConnect, developer portal (profiles, certificates etc)
  - Team Leadership
  - Very UX focused, utilising animations to support high performance screens
- - UI using .xibs, storyboards and manipulating UI in code
+ - UI using SwiftUI, .xibs, storyboards and manipulating UI in code
  - iPhone, iPad, Watch, Mac apps
  - Enormously passionate paying attention to the details
 
